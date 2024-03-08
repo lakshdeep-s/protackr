@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <div className="">Welcome to Protrackr</div>
+    <div className="font-primary font-bold">Welcome to Protrackr</div>
   )
 }
 export default Home;
